@@ -1,0 +1,85 @@
+
+#cabecalho{ 
+	background-color: #6175F0;
+	padding-left: 34px;
+	padding-top: 20px;
+	padding-bottom: 13px;
+	color: #FFFFFF;
+}
+
+#verdade img{
+	padding-right: 13px;
+	float: left; 
+  	width: 310px;
+}
+
+.referencia{
+	font-style: italic;
+}
+
+#musica{
+	padding-top: 20px; 
+}
+
+#musica p{
+	padding-left: 12px;
+	width: 370px;
+}
+
+#musica h2{
+	padding-left: 12px;
+}
+
+#musica p:nth-child(odd) {
+	padding-left: 34px;
+}
+
+.destacado{
+	
+	color: #004A79;
+	background-color: #C4CAF3;
+	clear: right;
+}
+
+
+#hoje{
+	float: right;
+	text-align: center;
+	width: 405px;
+	background-color: #F8CEF7;
+	padding-right: 35px;
+	padding-left: 35px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	border: solid 1px;
+	border-color:  #FF56FB;
+	margin-right: 25px;
+	
+}
+
+#hoje img{
+	height: 112px; 
+  	width: 112px;
+}
+
+h1{
+	color: #FFFFFF;
+	font-size: 36px;
+	font-family: 'Kaushan Script', cursive;
+}
+
+h2{ 
+	font-size: 24px; 
+	font-family: "Times New Roman", Times, serif;	
+}
+
+h3{
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;	
+}
+
+
+p{
+	font-size: 14px;
+	font-family: arial;	
+}
